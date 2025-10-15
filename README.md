@@ -23,4 +23,4 @@ Dataset link : https://www.kaggle.com/datasets/meetnagadia/kvasir-dataset
 
 ## Clone the repository:
 
-git clone https://github.com/your-username/kvasir-classification.git
+git clone https://github.com/Umutyagizyerli/kvasir-classification.git
